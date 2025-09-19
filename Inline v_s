@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial scale=1.0">
+        <title>Inline v/s Block</title>
+    </head>
+    <body>
+        <img src="https://www.shutterstock.com/image-photo/red-apple-cut-half-water-260nw-2532255795.jpg"
+        />
+            <img 
+            src="https://static.vecteezy.com/system/resources/thumbnails/023/977/762/small/closeup-a-fresh-whole-orange-citrus-fruit-isolate-ai-generated-free-photo.jpg"
+            />
+    </body>
+</html>
