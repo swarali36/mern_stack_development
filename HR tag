@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Inline v/s Block</title>
+   </head>
+   <body>
+      <p>This is my name which is shraddha khapra.</p>
+      <p>I am your web developement teacher.</p>
+      <hr />
+      <p>I teach you on Apna College.</P>
+      <p>I love coding.</p>
+   </body>
+  </html>
